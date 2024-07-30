@@ -15,7 +15,7 @@ Across all employees, there are 1,638 unique last names. With one exception, eac
 ### Department Managers
 Twenty-four (24) of the employees are managers at the 9 departments as shown in the following table.
 
-![department_managers]()
+![department_managers](https://github.com/rollernathan/sql-challenge/blob/main/EmployeeSQL/images/department_managers.png)
 
 ### Hercules, Hercules B
 There are 20 employees named Hercules with a last name starting with B. Those employees are shown in the table below along with their sex.
